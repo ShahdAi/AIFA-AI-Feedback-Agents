@@ -1,6 +1,7 @@
 # AIFA-AI-Feedback-Agents
 🧠 Overview
 ![Style Comparison](Untitled (5).pdf)
+
 AIFA (AI Feedback Agents) is an intelligent Multi-Agent System (MAS) built using the JADE framework.
 The goal of the system is to automatically collect, analyze, and summarize user feedback across three essential quality dimensions:
 
