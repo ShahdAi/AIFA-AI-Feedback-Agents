@@ -58,7 +58,8 @@ The system fully complies with FIPA-ACL messaging standards for agent-to-agent c
 
 🧪 Test Scenarios & Results
 Scenario 1 – Balanced Feedback
-
+## 📸 Example Results
+![Style Comparison](style_comparison_results.png)
 Input: 3 moderate ratings (3/5 each)
 
 Output:
@@ -73,7 +74,8 @@ Overall: 3.00
 📊 Represents balanced system performance
 
 Scenario 2 – Mostly Negative Feedback
-
+## 📸 Example Results
+![Style Comparison](style_comparison_results.png)
 Input: 80% negative ratings
 
 Output:
@@ -88,7 +90,8 @@ Overall: 2.78
 📉 Indicates poor service trends
 
 Scenario 3 – High UX, Low Speed
-
+## 📸 Example Results
+![Style Comparison](style_comparison_results.png)
 Input: High UX, low speed, moderate accuracy
 
 Output:
